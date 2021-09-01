@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Louise! 
+## Oiii! Eu sou Louise e esse é meu perfil.Seja bem-vindo!😃
 <div>
   <a href="https://github.com/louisebatistuta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=louisebatistuta&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -8,6 +8,7 @@
   <img align="center" alt="Louise-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Louise-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Louise-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Louise-Azure" height="30" width="40" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
   </div>
   
   ##
