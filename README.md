@@ -13,11 +13,10 @@
   <img align="center" alt="Louise-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Louise-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Louise-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Louise-Anime" height="100" width="100" src="https://giphy.com/embed/bqbDrEpqywVqfE7fmi"> 
-       
+  <img align="center" alt="Louise-Anime" height="30" width="40" src="https://giphy.com/embed/bqbDrEpqywVqfE7fmi">
+     
   
   ##
-
 <div> 
   <a href="https://br.pinterest.com/lbatistuta/" target="_blank"><img src="https://aleen42.github.io/badges/src/pinterest.svg" target="_blank"></a>
   <a href="https://www.instagram.com/louise.batistuta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
