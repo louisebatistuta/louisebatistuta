@@ -1,4 +1,7 @@
 ## Oiii! Eu sou Louise e esse é meu perfil.Seja bem-vindo!😃
+
+💻Front-End em Preparação
+👨‍💻Estudante HTML,CSS e JS
 <div>
   <a href="https://github.com/louisebatistuta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=louisebatistuta&show_icons=false&theme=radical&include_all_commits=true&count_private=true"/>
