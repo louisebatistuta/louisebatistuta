@@ -13,12 +13,10 @@
   <img align="center" alt="Louise-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Louise-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Louise-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right"Louise-Anime" src="https://media.giphy.com/media/bqbDrEpqywVqfE7fmi/source.mov?cid=790b7611b0977ff35d6fd3bb9442253d40407618200239c3&rid=source.mov&ct=g">
+  <img align="right"Louise-Anime" src="https://media.giphy.com/media/bqbDrEpqywVqfE7fmi/giphy.mp4?cid=790b7611b0977ff35d6fd3bb9442253d40407618200239c3&rid=giphy.mp4&ct=g">
   </div>
   
-
-  
-  ##
+ ##
 <div> 
   <a href="https://www.instagram.com/louise.batistuta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.facebook.com/louise.batistuta/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
