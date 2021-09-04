@@ -1,4 +1,4 @@
-## Oiii! Eu sou Louise e esse é meu perfil.Seja bem-vindo!😃
+## Oiii!Sou a Louise e esse é meu perfil.Seja bem-vindo!😃
 
 💻Front-End em Preparação
 
