@@ -13,8 +13,7 @@
   <img align="center" alt="Louise-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Louise-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Louise-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right"Louise-Anime" src="https://giphy.com/embed/bqbDrEpqywVqfE7fmi">
-  <iframe src="https://giphy.com/embed/bqbDrEpqywVqfE7fmi" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bqbDrEpqywVqfE7fmi">via GIPHY</a></p>                                                                                                         
+  <img align="right"Louise-Anime" src="https://media.giphy.com/media/bqbDrEpqywVqfE7fmi/giphy-downsized.gif">
 
   </div>
   
