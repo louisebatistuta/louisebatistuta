@@ -13,11 +13,9 @@
   <img align="center" alt="Louise-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Louise-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Louise-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right"Louise-Anime" src=""
-                                        
-
-  </div>
-  <iframe src="https://assets.pinterest.com/ext/embed.html?id=381187555971060638" height="336" width="236" frameborder="0" scrolling="no" ></iframe>                                      
+  <img align="right"Louise-Anime" src="https://media.giphy.com/media/z4zpDPQ8iOOcgD8Cze/giphy.gif"
+                                      
+  </div>                                    
   
  ##
 <div> 
@@ -25,6 +23,7 @@
  	<a href="https://www.facebook.com/louise.batistuta/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href = "mailto:louise.batistuta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/louisebatistuta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
  
  ![Snake animation](https://github.com/louisebatistuta/louisebatistuta/blob/output/github-contribution-grid-snake.svg)
  
