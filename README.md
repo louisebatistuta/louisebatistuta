@@ -1,5 +1,6 @@
 ## Oiii!Sou a Louise e esse é meu perfil.Seja bem-vindo!😃
 
+img align="right"Louise-hello" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif?cid=ecf05e47r5aa9ajo4z6vx75wvysenzubh686wmj78kugc83z&rid=giphy.gif&ct=g"
 💻 Front-End em Preparação
 
 👨‍💻 Estudante HTML,CSS e JS
