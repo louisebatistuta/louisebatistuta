@@ -14,7 +14,7 @@
   <img align="center" alt="Louise-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Louise-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img 
   <img align="right"Louise-Anime" src="https://i.picasion.com/pic91/0f68065344a6e64d34c340a818a775af.gif"
-  <img align="right"Louise-Anime" src="https://giphy.com/gifs/internet-rainbow-apple-l44Qqz6gO6JiVV3pu.gif"
+  
   
  
                                                                                                         
